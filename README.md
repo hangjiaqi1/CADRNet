@@ -1,6 +1,5 @@
 # CADRNet: Cognitively-Inspired Active Vision for 3D Reasoning Segmentation
 
-**Official PyTorch DataLoader for Multi-Scan Dataset**
 
 ## 📄 About CADRNet
 
